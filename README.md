@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naitri Doshi</h1>
 <h3 align="center">A passionate learner from India. I am currently pursuing Computer Engineering from Marwadi University, Rajkot.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B6_Whq5gMv1SLhIk-3NYVR2XV5UFR53l/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xcvnQpN0oK73FRZ5eWhsA3sfDYHwmMeD/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/naitridoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naitri-d-23274a116" height="30" width="40" /></a>
