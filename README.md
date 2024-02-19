@@ -2,10 +2,14 @@
 <h3 align="center">A passionate learner from India. I am currently pursuing Computer Engineering from Marwadi University, Rajkot.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xcvnQpN0oK73FRZ5eWhsA3sfDYHwmMeD/view?usp=sharing)
+- 📫 How to reach me **jesaldoshi123@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/naitridoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naitri-d-23274a116" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
