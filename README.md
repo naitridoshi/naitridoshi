@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naitri Doshi</h1>
 <h3 align="center">A passionate learner from India. I am currently pursuing Computer Engineering from Marwadi University, Rajkot.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xcvnQpN0oK73FRZ5eWhsA3sfDYHwmMeD/view?usp=sharing)
-- 📫 How to reach me **jesaldoshi123@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jbFsfvQGG6Gxu40fHkFf-687SuGh3fmj/view?usp=sharing)
+- 📫 How to reach me [Email](mailto:naitridoshi.work@gmail.com)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
