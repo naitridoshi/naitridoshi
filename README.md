@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naitri Doshi</h1>
-<h3 align="center">A passionate learner from India. I am currently pursuing Computer Engineering from Marwadi University, Rajkot.</h3>
+<h3 align="center">A passionate learner from India.</h3>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HpalR5UsPKJvI6Wp31kCPv4l9WJRobpT/view?usp=sharing)
 - 📫 How to reach me [Email](mailto:naitridoshi.work@gmail.com)
