@@ -1,10 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/naitridoshi/naitridoshi/assets/banner.png" alt="Naitri Doshi Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey, I’m Naitri 👋</h1>
-
 <p align="center">
   <b>AI Developer • Backend Engineer • Automation Specialist</b><br>
   I build autonomous systems, intelligent agents, and APIs that scale.
