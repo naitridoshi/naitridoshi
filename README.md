@@ -35,7 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitridoshi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naitridoshi)
-[![Resume](https://img.shields.io/badge/Resume-Download-E63946?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xcvnQpN0oK73FRZ5eWhsA3sfDYHwmMeD/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-E63946?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1CyEl7ANQLVAC9en_SpOh9YZ57JL5TgHN/view?usp=sharing)
 
 ---
 
