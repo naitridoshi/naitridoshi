@@ -1,15 +1,12 @@
 <!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naitridoshi.naitridoshi" />
 
-<!-- Custom Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
-
 <div align="center">
 
-<h1 style="font-family: 'DM Serif Display', sans-serif; font-size: 3.2rem;">
+<h1 style="font-family: ui-serif, Georgia, 'Times New Roman', serif; font-size: 3.2rem; text-align:center;">
   Hey! I'm Naitri Doshi
 </h1>
-<p style="text-align: center; font-size: 1.2rem; font-family: 'DM Serif Display', sans-serif;">
+<p style="text-align: center; font-size: 1.2rem; font-family: ui-serif, Georgia, 'Times New Roman', serif;">
   <b>AI Developer • Backend Engineer • Automation Specialist</b>
 </p>
 
