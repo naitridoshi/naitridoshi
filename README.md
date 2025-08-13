@@ -1,55 +1,82 @@
-<h1 align="center">Hey, I’m Naitri 👋</h1>
-<p align="center">
-  <b>AI Developer • Backend Engineer • Automation Specialist</b><br>
-  I build autonomous systems, intelligent agents, and APIs that scale.
+<!-- Visitor Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naitridoshi.naitridoshi" />
+
+<!-- Custom Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+
+<div align="center">
+
+<h1 style="font-family: 'DM Serif Display', sans-serif; font-size: 3.2rem;">
+  Hey! I'm Naitri Doshi
+</h1>
+<p style="text-align: center; font-size: 1.2rem; font-family: 'DM Serif Display', sans-serif;">
+  <b>AI Developer • Backend Engineer • Automation Specialist</b>
 </p>
 
----
 
-### 🔍 What I’m Doing Now
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/naitridoshi/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:naitridoshi.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/naitridoshi)
+[![Resume](https://img.shields.io/badge/Resume-Download-E63946?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1CyEl7ANQLVAC9en_SpOh9YZ57JL5TgHN/view)
 
-- Building AI agents @ VRSEN AI  
-- Freelancing on data scraping and workflow automation  
-- Diving deep into LLMs, agent frameworks, and scalable backends  
-- Happy to chat about FastAPI, LangChain, Hugging Face, or anything agent-related  
+[//]: # ([![Portfolio]&#40;https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge&#41;]&#40;https://port-folio-nine-lemon-27.vercel.app/&#41;)
 
-📬 Reach me at: **naitridoshi.work@gmail.com**
-
----
-
-### 🛠️ Stack I Like Working With
-
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111?style=flat&logo=chainlink&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111?style=flat&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat&logo=tensorflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-111?style=flat&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 🔗 Connect
+## 🚀 What I’ve Tinkered With
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitridoshi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naitridoshi)
-[![Resume](https://img.shields.io/badge/Resume-Download-E63946?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1CyEl7ANQLVAC9en_SpOh9YZ57JL5TgHN/view?usp=sharing)
+<div align="center">
+
+### 🧑‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,java" /><br>
+  `C++` · `Python` · `Java`
+
+
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=react,css,bootstrap,tailwind,fastapi,flask,django" /><br>
+  `ReactJS` · `CSS (Bootstrap & Tailwind)` · `FastAPI` · `Flask` · `Django`
+
+
+### 📊 Data, ML & AI  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br>
+  `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Power BI` · `TensorFlow` · `PyTorch` · `Scikit-Learn` · `OpenCV` · `LangChain` · `LlamaIndex` · `Hugging Face` · `OpenAI` · `Agency Swarm`
+
+### 🗄️ Databases & Cloud  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,docker,gcp" /><br>
+  `MySQL` · `MongoDB` · `PostgreSQL` · `Redis` · `Firebase` · `Qdrant` · `Pinecone` · `Chroma` · `Docker` · `Google Cloud Platform`
+
+### 🔧 Tools & Automation  
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,selenium,nodejs" /><br>
+  `Git` · `Linux` · `Pycharm` · `Postman` · `Pytest` · `SonarQube` · `Selenium` · `Playwright` · `Puppeteer` · `Scrapy` · `BeautifulSoup` · `Requests`
+
+</div>
 
 ---
 
-### 📈 GitHub Activity
+## 🎯 Areas of Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitridoshi&show_icons=true&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=naitridoshi&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitridoshi&layout=compact&theme=dark" width="48%" />
-</p>
+- 🕷️ Data Scraping & Web Automation  
+- 🤖 Chatbot Development & Conversational AI  
+- 🧠 AI Agent Design & Workflow Orchestration  
+- ⚙️ Process Automation & System Integration  
+- 🔍 Semantic Search & Information Retrieval
 
 ---
 
-Thanks for stopping by. I’m always down to build something smart, useful, and fast. If that’s your vibe too, let’s talk.
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=naitridoshi&theme=react&hide_border=true" alt="GitHub Streak" width="90%"/>
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naitridoshi&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=120&section=footer" width="98%"/>
+</div>
