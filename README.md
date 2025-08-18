@@ -1,5 +1,9 @@
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naitridoshi.naitridoshi" />
+<p align="right">
+  <a href="https://wakatime.com/@e6512e27-9f36-4ff0-8346-f002d353f5bc">
+    <img src="https://wakatime.com/badge/user/e6512e27-9f36-4ff0-8346-f002d353f5bc.svg" alt="WakaTime" />
+  </a><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=naitridoshi.naitridoshi" alt="Visitors" />
+</p>
 
 <div align="center">
 
